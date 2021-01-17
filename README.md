@@ -11,7 +11,7 @@ To UF requests add to the root url: /uf/dd-mm-yyyy
  * dd-mm-yyyy must be a valid date
 
 To see the counter of your requests add to the root url: /client/username
- * username must be de same as your X-CLIENT used at UF request
+ * username must be the same as your X-CLIENT used at UF request
 
 
 
